@@ -1,2 +1,9 @@
 # image-tests.alanwsmith.com
-A Place To Test And Compare Image Formats And Settings
+
+A place to compare image formats and 
+settings to find a good balance between
+image quality and file site. 
+
+Visit [image-test.alanwsmith.com](https://image-test.alanwsmith.com/)
+for details.
+
